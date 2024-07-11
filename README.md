@@ -28,13 +28,12 @@ Local Machine:
 Open the notebook with Jupyter Notebook.
 Run the cells to execute the code.
 
-Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Mansi Pandey - your-email@example.com
+Mansi Pandey - mansiipandey@gmail.com
 
 Project Link: https://github.com/mansiipandey/amazon-sales-analysis
