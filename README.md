@@ -94,6 +94,7 @@ The data is cleaned, processed, and analyzed to uncover trends and meaningful pa
 🔹 Advanced Business Intelligence Reporting
 
 
-🔹Distributed under the MIT License. See LICENSE for more information.
+
+🔹Distributed under the MIT License. 
 
 🔹Project Link: https://github.com/mansiipandey/amazon-sales-analysis
